@@ -410,7 +410,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: c2d499123f74517439e82c82173d5a7c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 588f145eb093e034384db56671d1418c, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1015,7 +1015,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: DesktopScreen
+          m_StringArgument: Start
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &708683631
@@ -1422,8 +1422,8 @@ MonoBehaviour:
   - {fileID: 2094200502}
   breathingSpeed: 0.1
   breathingScale: 1.1
-  switchSound: {fileID: 8300000, guid: 3e125bb07562d9e44ae8a7593a04ce8c, type: 3}
-  clickSound: {fileID: 8300000, guid: e8f112fbe667a9247bcee042cbd34f0e, type: 3}
+  switchSound: {fileID: 8300000, guid: d4e2192118188aa4f8733c03ed36ecaf, type: 3}
+  clickSound: {fileID: 8300000, guid: 09781a7e8eff5354897329673816a1d6, type: 3}
   minAlpha: 0
   maxAlpha: 1
   alphaBreathingSpeed: 0.7
@@ -2256,7 +2256,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1586187941}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: a21980f76b605b442bedbef053720c58, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 69c2eb2a1f5fd904083f2071554b949f, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}

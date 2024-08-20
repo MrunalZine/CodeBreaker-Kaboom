@@ -1906,9 +1906,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: d86a8d57d4e471d4bbbf21758ffc3463, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 36b65c12d15450241a6fdb2f6b9ff74d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.805
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -2099,7 +2099,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1586187941}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 4f0f812e69f5a294193571f02f8dd492, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: f5a2f1462e1cc5e429c227e5a4efb8f0, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -2193,8 +2193,8 @@ MonoBehaviour:
   - {fileID: 1949587400}
   breathingSpeed: 0.1
   breathingScale: 1.1
-  switchSound: {fileID: 8300000, guid: 3e125bb07562d9e44ae8a7593a04ce8c, type: 3}
-  clickSound: {fileID: 8300000, guid: e8f112fbe667a9247bcee042cbd34f0e, type: 3}
+  switchSound: {fileID: 8300000, guid: d4e2192118188aa4f8733c03ed36ecaf, type: 3}
+  clickSound: {fileID: 8300000, guid: 09781a7e8eff5354897329673816a1d6, type: 3}
   minAlpha: 0
   maxAlpha: 1
   alphaBreathingSpeed: 0.7
@@ -2208,9 +2208,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: d86a8d57d4e471d4bbbf21758ffc3463, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0.1
+  m_Volume: 0.6
   m_Pitch: 1
   Loop: 0
   Mute: 0
