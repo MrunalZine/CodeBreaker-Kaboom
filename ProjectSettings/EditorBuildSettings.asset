@@ -23,4 +23,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MyComputer.unity
     guid: 1cc0dcb71f443c647a694b0edb6f5ed5
+  - enabled: 1
+    path: Assets/Scenes/LevelDone.unity
+    guid: 8c55266bd9f66d4498227cb4681ba4b9
+  - enabled: 1
+    path: Assets/Scenes/EndPassword.unity
+    guid: 72bca612a2496394c9235262ccfd3e1d
+  - enabled: 1
+    path: Assets/Scenes/PauseScreen.unity
+    guid: b92e6716b94a6f54f9a4b35c91cc679e
   m_configObjects: {}
